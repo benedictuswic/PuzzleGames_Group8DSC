@@ -1,3 +1,2 @@
 # PuzzleGames_Group8DSC
-
-For Google DSC ITB Project
+Collaborative project between Google DSC ITB members
